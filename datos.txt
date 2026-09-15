@@ -1,2 +1,3 @@
 Práctica de Git y GitHub.
 En esta práctica creare un repositorio
+Este archivo fue modificado desde GitHub.
